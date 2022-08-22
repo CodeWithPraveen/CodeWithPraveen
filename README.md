@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Praveen ... a software engineer with over 15 years of C# .NET development experience in various Enterprise applications including Security & Surveillance systems and Access Control systems.
 - 👀 I’m interested in ... teaching my fellow programmers through Online Courses.
-- 🌱 I’m currently ... updating the C# LINQ Essentials course with .NET 6 features.  
+- 🌱 I’m currently ... working on Docker for .NET Developers course.  
 - 💞️ How to find my existing courses ... https://codewithpraveen.com/discount-coupons/
 - 📫 How to reach me ... hello@codewithpraveen.com
 
